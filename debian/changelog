@@ -1,3 +1,8 @@
+ngcp-rtpengine (12.1.1.7+1~mr12.1.1.7-bv) unstable; urgency=medium
+
+  [ Justin LaVelle ]
+  * [e4394c38] Backport change adding max-recv-iters setting
+
 ngcp-rtpengine (12.1.1.7+0~mr12.1.1.7) unstable; urgency=medium
 
   [ Richard Fuchs ]
